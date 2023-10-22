@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IBOS\\Identity Project\\Identity Project\\Identity Project.csproj": {}
+    "D:\\IBOS\\Microservices\\Identity Project\\Identity Project\\Identity Project.csproj": {}
   },
   "projects": {
-    "D:\\IBOS\\Identity Project\\Identity Project\\Identity Project.csproj": {
+    "D:\\IBOS\\Microservices\\Identity Project\\Identity Project\\Identity Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IBOS\\Identity Project\\Identity Project\\Identity Project.csproj",
+        "projectUniqueName": "D:\\IBOS\\Microservices\\Identity Project\\Identity Project\\Identity Project.csproj",
         "projectName": "Identity Project",
-        "projectPath": "D:\\IBOS\\Identity Project\\Identity Project\\Identity Project.csproj",
+        "projectPath": "D:\\IBOS\\Microservices\\Identity Project\\Identity Project\\Identity Project.csproj",
         "packagesPath": "C:\\Users\\iftek\\.nuget\\packages\\",
-        "outputPath": "D:\\IBOS\\Identity Project\\Identity Project\\obj\\",
+        "outputPath": "D:\\IBOS\\Microservices\\Identity Project\\Identity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iftek\\AppData\\Roaming\\NuGet\\NuGet.Config",

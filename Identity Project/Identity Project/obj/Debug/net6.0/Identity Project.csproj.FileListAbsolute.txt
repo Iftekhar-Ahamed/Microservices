@@ -85,3 +85,90 @@ D:\IBOS\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\win\lib\net6
 D:\IBOS\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\IBOS\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 D:\IBOS\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\appsettings.Development.json
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\appsettings.json
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Identity Project.exe
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Identity Project.deps.json
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Identity Project.runtimeconfig.json
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Identity Project.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Identity Project.pdb
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Azure.Core.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Azure.Identity.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Humanizer.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\System.CodeDom.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\System.Memory.Data.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\System.Text.Json.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\Identity Project.csproj.AssemblyReference.cache
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\Identity Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\Identity Project.AssemblyInfoInputs.cache
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\Identity Project.AssemblyInfo.cs
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\Identity Project.csproj.CoreCompileInputs.cache
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\Identity Project.MvcApplicationPartsAssemblyInfo.cs
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\Identity Project.MvcApplicationPartsAssemblyInfo.cache
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\staticwebassets\msbuild.Identity Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Identity Project.props
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Identity Project.props
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Identity Project.props
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\scopedcss\bundle\Identity Project.styles.css
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\Identity Project.csproj.CopyComplete
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\Identity Project.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\refint\Identity Project.dll
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\Identity Project.pdb
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\Identity Project.genruntimeconfig.cache
+D:\IBOS\Microservices\Identity Project\Identity Project\obj\Debug\net6.0\ref\Identity Project.dll

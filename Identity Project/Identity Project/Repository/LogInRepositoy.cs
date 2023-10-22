@@ -33,9 +33,6 @@ namespace Identity_Project.Repository
                         new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
                         new Claim(JwtRegisteredClaimNames.Iat, DateTime.UtcNow.ToString()),
                         new Claim("UserId", user.UserId.ToString()),
-                        //new Claim("DisplayName", "Iftekhar"),
-                        //new Claim("UserName", "Ïftekhar Ahamed Siddiquee"),
-                        //new Claim("Email", "iftekhar@ibos.io")
             };
 
 
